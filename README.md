@@ -1,6 +1,6 @@
 <h1 align="center">Doom RPG</h1>
 <p align="center">A mobile game developed by Fountainhead Entertainment that combines 3D shooter elements through turn-based video with RPG elements..</p>
-* Code Files > [DoomRPG SE Rebalance Last Build (for GZDoom 4.10.0)](https://github.com/WNC12k/DoomRPG-Rebalance)
+* Code Files > https://github.com/WNC12k/DoomRPG-Rebalance
 <p align="center"><img height="400" align="center" src="https://i.playground.ru/p/JlDXE1WhuVJGzRXMLJdlQA.png"></p>
 
 ## Download Doom RPG
